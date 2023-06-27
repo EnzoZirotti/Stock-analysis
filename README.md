@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock-analysis
 ### Overview of Project
 The goal of this project was to help Steve look at the full dataset for the entire stock market. The code that was given to us only works for a dozen stocks but not thousands.
 
